@@ -22,10 +22,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.kedcobillspayment" />
+                  <option name="mobileSdkAppId" value="1:717688370349:android:da8bdac853c424058d8224" />
+                  <option name="projectId" value="kedco-bills-payment" />
+                  <option name="projectNumber" value="717688370349" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
